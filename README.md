@@ -8,7 +8,7 @@
 
 > Frontend Car booking app.
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/54015740/161331489-42bc8e36-ce0d-44bc-82b1-33cae031251b.png)
 
 This app is meant for us to book a car, add a car, reserve a car, and delete a car.
 
